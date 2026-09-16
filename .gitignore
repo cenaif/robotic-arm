@@ -1,0 +1,12 @@
+# SolidWorks
+*.SLDPRT.lck
+~$*
+*.bak
+
+# Arduino
+*.hex
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
